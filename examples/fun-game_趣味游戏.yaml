@@ -1,0 +1,13 @@
+id: fun-game
+title: 趣味游戏
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：趣味游戏
+  - 目标：跳过障碍物以尽可能长时间存活。
+  - 功能：速度逐渐增加、最高分记录、重试按钮，以及在动作和事件中加入有趣的音效。
+  - UI 应该色彩丰富，并具有视差滚动的背景。
+  - 角色应具有卡通风格且观赏性强。
+  - 游戏应适合所有人游玩并充满乐趣。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/fun-game.png
+tags:
+  - game
