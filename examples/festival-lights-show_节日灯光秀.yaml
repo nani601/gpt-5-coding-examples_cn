@@ -1,0 +1,11 @@
+id: festival-lights-show
+title: 节日灯光秀
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：节日灯光秀
+  - 目标：控制一场虚拟灯光秀。
+  - 功能：颜色切换、灯光图案、音乐同步。
+  - UI 应该充满活力且具有动态效果。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/festival-lights-show.png
+tags:
+  - interactive
