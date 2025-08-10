@@ -1,0 +1,10 @@
+id: target-clicker
+title: 点击靶心游戏
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，用于点击靶心挑战。
+  - 随机靶心会在屏幕上短暂出现 — 点击它们得分。
+  - 游戏持续 20 秒；结束时显示得分和命中率。
+  - 使用色彩丰富的动画靶心和现代化的记分板覆盖层。背景应为浅色。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/target-clicker.png
+tags:
+  - game
