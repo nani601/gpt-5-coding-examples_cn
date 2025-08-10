@@ -1,0 +1,8 @@
+id: asteroid-game
+title: 小行星游戏
+prompt: |
+  制作一个 2D 太空游戏，我可以驾驶飞船，躲避并摧毁小行星，还能与其他由计算机控制的 AI 进行空战。飞船设计要有创意。确保游戏玩法可行且有趣。
+  输出的代码应为单个 next.js 的 page.tsx 文件，可直接粘贴到使用 create-next-app 创建的 next.js 应用中，并附上运行所需的上下文或说明。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/asteroid-game.png
+tags:
+  - game
