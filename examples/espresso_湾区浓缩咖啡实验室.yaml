@@ -1,0 +1,7 @@
+id: espresso
+title: 湾区浓缩咖啡实验室
+prompt: |
+  请为一项服务生成一个美观、逼真的落地页，该服务面向终极咖啡爱好者，提供每月 200 美元的订阅，包含咖啡烘焙及制作顶级浓缩咖啡所需的设备租赁和指导培训。目标受众是湾区中年人，可能在科技行业工作，受过良好教育，有可支配收入，并热衷于咖啡的艺术与科学。页面需针对 6 个月签约进行转化优化。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/espresso.png
+tags:
+  - landing
