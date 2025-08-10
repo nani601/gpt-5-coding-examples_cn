@@ -1,0 +1,11 @@
+id: online-whiteboard
+title: 在线白板
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：在线白板
+  - 目标：进行绘图和可视化协作（仅本地）。
+  - 功能：绘图工具、橡皮擦、保存图片。
+  - UI 应该简洁且全屏显示。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/online-whiteboard.png
+tags:
+  - tool
