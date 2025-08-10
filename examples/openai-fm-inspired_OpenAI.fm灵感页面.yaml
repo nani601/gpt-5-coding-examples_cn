@@ -1,7 +1,7 @@
 id: openai-fm-inspired
-title: OpenAI.fm Inspired
+title: OpenAI.fm 灵感页面
 prompt: |
-  Create a single-page app in a single HTML file that is inspired by https://openai.fm/
+  在单个 HTML 文件中创建一个受 https://openai.fm/ 启发的单页应用。
 screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/openai-fm-inspired.png
 tags:
   - landing
