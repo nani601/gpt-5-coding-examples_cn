@@ -1,0 +1,11 @@
+id: virtual-drum-kit
+title: 虚拟架子鼓
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：虚拟架子鼓
+  - 目标：通过键盘或点击演奏架子鼓。
+  - 功能：多种鼓声、录音和回放模式。
+  - UI 应为音乐工作室主题并突出鼓组；鼓垫应足够大以便在手机上点击。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/virtual-drum-kit.png
+tags:
+  - interactive
