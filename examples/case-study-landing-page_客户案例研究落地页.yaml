@@ -1,0 +1,11 @@
+id: case-study-landing-page
+title: 客户案例研究
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：客户案例研究 - XYZ 公司
+  - 目标：突出展示一个 SaaS 客户的成功案例。
+  - 功能：问题/解决方案拆解、关键指标、客户评价引用。
+  - UI 应该简洁且具有说服力。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/case-study-landing-page.png
+tags:
+  - landing
