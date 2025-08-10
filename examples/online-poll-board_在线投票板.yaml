@@ -1,0 +1,11 @@
+id: online-poll-board
+title: 在线投票板
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：在线投票板
+  - 目标：让访客对话题进行投票（模拟）。
+  - 功能：投票列表、投票数动画、结果展示。
+  - UI 应该有吸引力且易于使用；背景应为浅色且令人愉快。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/online-poll-board.png
+tags:
+  - app
