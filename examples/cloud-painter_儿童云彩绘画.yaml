@@ -1,0 +1,11 @@
+id: cloud-painter
+title: 儿童云彩绘画
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：云彩绘画
+  - 目标：使用画笔工具在天空中绘制云彩，让儿童享受绘画乐趣。
+  - 功能：多种画笔形状、云彩漂移动画、天空中飞行的飞机、保存图片。
+  - UI 应该柔和且充满奇幻感。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/cloud-painter.png
+tags:
+  - interactive
