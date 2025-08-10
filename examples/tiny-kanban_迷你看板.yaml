@@ -1,0 +1,11 @@
+id: tiny-kanban
+title: 迷你看板
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：迷你看板
+  - 目标：实现 待办 → 进行中 → 已完成 的工作流。
+  - 功能：卡片拖拽、在制品（WIP）限制、优先级颜色、分配给成员、搜索过滤、删除项目。
+  - UI、字体大小和配色等应适合每日站会使用。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/tiny-kanban.png
+tags:
+  - app
