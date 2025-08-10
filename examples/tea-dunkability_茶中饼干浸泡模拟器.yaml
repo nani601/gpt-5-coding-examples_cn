@@ -1,0 +1,7 @@
+id: tea-dunkability
+title: 茶中饼干浸泡模拟器
+prompt: |
+  生成一个 React 页面，用于模拟经典饼干在茶中的浸泡效果：包括茶温、浸泡时间、饼干类型和结构完整性的滑块；动画显示循环播放的带蒸汽茶杯，展示“碎裂计”图表，并在过度浸泡时撒下饼干屑；使用玻璃质感卡片、深色模式，并支持键盘快捷键。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/tea-dunkability.png
+tags:
+  - interactive
