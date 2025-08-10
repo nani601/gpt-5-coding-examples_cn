@@ -1,0 +1,11 @@
+id: camping-gear-checklist
+title: 露营装备清单
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：露营装备清单
+  - 目标：跟踪露营旅行的装备。
+  - 功能：清单项目、重量计算器、保存清单。
+  - UI 应具有户外主题风格。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/camping-gear-checklist.png
+tags:
+  - utility
