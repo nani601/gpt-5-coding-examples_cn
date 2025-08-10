@@ -1,12 +1,12 @@
-# GPT-5 Coding Examples
+# GPT-5 编码示例
 
-This repository contains a curated collection of demo applications **generated entirely in a single [GPT-5](https://platform.openai.com/docs/models/gpt-5) prompt**, without writing any code by hand.
+该仓库收录了一系列由 **[GPT-5](https://platform.openai.com/docs/models/gpt-5)** 在单次提示下**完全生成**的演示应用，无需手写任何代码。
 
-These demos were selected to showcase the model’s strengths in coding — especially quickly scaffolding websites, front-end applications, games, and interactive UIs from natural-language descriptions. They’re intended as inspiration for you to build your own ideas.
+这些演示案例经过精挑细选，旨在展示模型在编码方面的优势 —— 尤其是在通过自然语言描述快速搭建网站、前端应用、游戏和交互式 UI 等方面的能力。它们的目的在于为你构建自己的创意提供灵感。
 
-## Explore Examples
+## 浏览示例
 
-You can explore the demos by cloning this repo and running it locally.
+你可以克隆此仓库并在本地运行以体验这些演示。
 
 ```
 cd front-end
@@ -14,50 +14,50 @@ npm install
 npm run dev
 ```
 
-The app will be available at `localhost:3000`.
+应用将在 `localhost:3000` 可用。
 
-You can also visit the [hosted version](https://gpt5-coding-examples.vercel.app/).
+你也可以访问 [托管版本](https://gpt5-coding-examples.vercel.app/)。
 
-From there, you can view any example, see the zero-shot prompt that created the code, and remix it for your own ideas.
+在这里，你可以查看任意示例，了解生成该代码的零样本提示，并将其改造为你自己的创意。
 
-## Build with GPT-5
+## 使用 GPT-5 构建
 
-If you want to experiment with similar prompts, you can try GPT-5 in your preferred coding environment:
+如果你想尝试类似的提示，可以在你偏好的编码环境中使用 GPT-5：
 
-- **[Codex CLI](https://github.com/openai/codex)** – A lightweight coding agent that runs in your terminal.
-- **Your favorite IDE or coding tool** – Use GPT-5 within your existing workflow to generate and refine code.
-- **[ChatGPT](https://chatgpt.com)** – Open ChatGPT and choose GPT-5 to generate and preview code in the browser.
+* **[Codex CLI](https://github.com/openai/codex)** – 一个轻量级的终端编码助手。
+* **你喜欢的 IDE 或编码工具** – 在现有工作流中使用 GPT-5 来生成和优化代码。
+* **[ChatGPT](https://chatgpt.com)** – 打开 ChatGPT 并选择 GPT-5，在浏览器中生成并预览代码。
 
-Choose an example, copy its prompt for inspiration, and adapt it to your own needs.  
-Let GPT-5 build your idea, then iterate on the prompt or code to explore variations.
+选择一个示例，复制其提示作为灵感，并根据你的需求进行改造。
+让 GPT-5 构建你的创意，然后通过迭代提示或修改代码探索不同的版本。
 
-### For Developers: Codex CLI
+### 面向开发者：Codex CLI
 
-We recommend using the [**Codex CLI**](https://github.com/openai/codex) with GPT-5 for a seamless coding experience.
+我们推荐使用 [**Codex CLI**](https://github.com/openai/codex) 搭配 GPT-5，以获得流畅的编码体验。
 
-The Codex CLI runs in your terminal: given a prompt, it will generate code, execute it in a sandbox, and even preview the results live.
+Codex CLI 在终端运行：给出提示后，它会生成代码，在沙盒中执行，并实时预览结果。
 
-Example:
+示例：
 
 ```bash
-codex --model gpt-5 --full-auto "Build a simple photobooth application with camera access in a single HTML file"
+codex --model gpt-5 --full-auto "用单个 HTML 文件构建一个带摄像头访问功能的简易拍照应用"
 ```
 
-GPT-5 will scaffold the app, write files, install dependencies as needed, and show a live preview. This is the **go-to solution** for developers who want to bootstrap apps or add features quickly.
+GPT-5 会搭建应用骨架、编写文件、按需安装依赖，并显示实时预览。这是开发者快速构建应用或添加功能的**首选方案**。
 
-You can also use GPT-5 with any other AI coding tool that supports the model.
+你也可以将 GPT-5 与任何支持该模型的 AI 编码工具结合使用。
 
-### For Non-Developers: ChatGPT
+### 面向非开发者：ChatGPT
 
-If you don’t have a coding environment, you can use [**ChatGPT**](https://chatgpt.com) (with GPT-5) to build and preview apps entirely in the browser:
+如果你没有本地编码环境，可以使用 [**ChatGPT**](https://chatgpt.com)（选择 GPT-5）在浏览器中完全构建并预览应用：
 
-1. Copy an example’s prompt for inspiration and customize it to make it your own.
-2. Let GPT-5 generate the code (HTML/CSS/JavaScript).
-3. Open it in **Canvas** preview to see it run live.
-4. Download or copy the output HTML for real-world use.
+1. 复制一个示例的提示作为灵感，并根据自己的需求进行定制。
+2. 让 GPT-5 生成代码（HTML/CSS/JavaScript）。
+3. 在 **Canvas** 预览中实时查看运行效果。
+4. 下载或复制生成的 HTML 文件，用于实际项目。
 
-With this method, _anyone_ can create a working single-page app — no local setup required.
+通过这种方式，*任何人* 都可以创建一个可用的单页应用 —— 无需本地环境配置。
 
-> [!NOTE]
-> We are not accepting contributions at this time.  
-> This repo is for **reference and inspiration only**. If you’d like to build on these ideas, please fork the repo for your own experiments.
+> \[!NOTE]
+> 我们目前不接受外部贡献。
+> 此仓库仅供**参考与灵感**。如果你想在此基础上进行开发，请 fork 仓库并自行实验。
