@@ -1,0 +1,7 @@
+id: weather-theatre
+title: 天气剧场
+prompt: |
+  生成一个精美的 React + Canvas “天气剧场”，通过滑块（温馨、诡秘、英雄）将同一份模拟天气预报重新混合成不同的舞台场景；包含视差背景、聚光灯扫动和幕布揭开效果；添加打字机风格的场景字幕以及“日场/夜场”切换；不使用外部 API。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/weather-theatre.png
+tags:
+  - interactive
