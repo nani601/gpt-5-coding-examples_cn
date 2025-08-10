@@ -1,0 +1,11 @@
+id: product-launch-page
+title: 智能手表产品
+prompt: |
+  在单个 HTML 文件中创建一个单页应用，要求如下：
+  - 名称：产品新闻发布页
+  - 目标：展示一款新的实体或数字产品。
+  - 功能：大型主视觉图、产品规格部分、预订表单。
+  - UI 应该是现代化且以产品为核心。
+screenshot_url: https://cdn.openai.com/devhub/gpt5prompts/product-launch-page.png
+tags:
+  - landing
